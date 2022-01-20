@@ -82,5 +82,18 @@
     "http-proxy-middleware": "^0.20.0",
     "js-yaml": "^3.13.0",
     "request": "^2.88.0"
-  }
+  },
+  "description": "[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)\r [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)\r [![dependencies](https://david-dm.org/jinksi/netlify-cms-react-starter.svg?style=flat-square)](https://david-dm.org/jinksi/netlify-cms-react-starter)\r [![Netlify Status](https://api.netlify.com/api/v1/badges/f007e81b-b83b-4433-bd6d-a3924fae3204/deploy-status)](https://app.netlify.com/sites/netlify-cms-react-starter/deploys)",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbabnik/FreedomSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbabnik/FreedomSite/issues"
+  },
+  "homepage": "https://github.com/gbabnik/FreedomSite#readme"
 }
