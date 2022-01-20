@@ -1,7 +1,7 @@
 ---
-title: Contact us
-subtitle: ''
-featuredImage: '/images/uploads/mark-chang-74-3.jpg'
+title: Poklič k boš lahko
+featuredImage: /images/uploads/img_20211206_162450.jpg
+subtitle: Ampak, zdele en tedn nmorm
 address: 404 James St, Burleigh Heads QLD 4220
 phone: 0987 123 456
 email: example@example.com
