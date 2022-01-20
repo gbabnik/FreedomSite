@@ -10,7 +10,7 @@ export default ({ fields }) => {
     <main className='Home'>
       <PageHeader
         large
-        title={title}
+        title={title + 'mammmma mia, que cosa!!'}
         subtitle={subtitle}
         backgroundImage={featuredImage}
       />
